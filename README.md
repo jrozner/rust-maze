@@ -1,0 +1,1 @@
+This is a poorly written implementation of the A star path finding algorithm in Rust while learning the language. It solves a CTF challenge that I found somewhere and don't remember anything about at this point.
